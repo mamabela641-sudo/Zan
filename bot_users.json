@@ -1,0 +1,77 @@
+{
+  "adminUserIds": [
+    8781652064
+  ],
+  "permanentBlacklist": [
+    {
+      "id": 5721655616,
+      "name": "Cimpuy",
+      "username": "Cimpuy",
+      "reason": "Dilarang menjadi Admin atau Member / Diblokir permanen selamanya oleh Super Admin",
+      "blacklistedAt": "2026-08-28T13:24:05.391Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 5721655616,
+      "chatId": 5721655616,
+      "firstName": "Cimpuy",
+      "username": "Cimpuy",
+      "role": "user",
+      "status": "blocked",
+      "requestedAt": "2026-08-28T13:24:05.391Z",
+      "lastActiveAt": "2026-08-29T06:41:35.693Z",
+      "generatedCount": 1,
+      "rejectedAt": "2026-08-29T06:25:25.337Z",
+      "blockedAt": "2026-08-29T06:25:25.337Z"
+    },
+    {
+      "id": 8781652064,
+      "chatId": 8781652064,
+      "firstName": "Ngomong opo jieee",
+      "role": "admin",
+      "status": "active",
+      "requestedAt": "2026-08-28T13:24:05.835Z",
+      "lastActiveAt": "2026-08-29T07:03:49.941Z",
+      "generatedCount": 0
+    },
+    {
+      "id": 8629144520,
+      "chatId": 8629144520,
+      "firstName": "Bay",
+      "lastName": "Awan",
+      "username": "Mbayu1996",
+      "role": "user",
+      "status": "blocked",
+      "requestedAt": "2026-08-28T14:00:17.322Z",
+      "lastActiveAt": "2026-08-29T06:23:52.656Z",
+      "generatedCount": 5,
+      "approvedAt": "2026-08-28T14:00:21.924Z",
+      "approvedBy": 8781652064
+    },
+    {
+      "id": 8669848539,
+      "chatId": 8669848539,
+      "firstName": "A",
+      "lastName": "R",
+      "username": "arohman560",
+      "role": "user",
+      "status": "pending",
+      "requestedAt": "2026-08-29T06:23:51.236Z",
+      "lastActiveAt": "2026-08-29T06:23:51.236Z",
+      "generatedCount": 0
+    },
+    {
+      "id": 1204729209,
+      "chatId": 1204729209,
+      "firstName": "Mita",
+      "lastName": "Wahyuni",
+      "username": "Wahyuni147",
+      "role": "user",
+      "status": "pending",
+      "requestedAt": "2026-08-29T06:23:53.092Z",
+      "lastActiveAt": "2026-08-29T06:23:53.092Z",
+      "generatedCount": 0
+    }
+  ]
+}

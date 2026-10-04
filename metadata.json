@@ -1,0 +1,6 @@
+{
+  "name": "RunningHub Kling V3 Motion Control Studio",
+  "description": "Interactive Motion Control Studio & Telegram Bot Simulator for RunningHub Kling v3.0 AI Model API",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
